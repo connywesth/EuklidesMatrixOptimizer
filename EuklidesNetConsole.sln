@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuklidesNetConsole", "Euklides_Console\EuklidesNetConsole\EuklidesNetConsole.csproj", "{7BEFB927-EE5A-49B6-9D4D-3016A010EFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euklides_ClassLibraryNET", "EuklidesMatrixOptimizer_ClassLibraryNET\Euklides_ClassLibraryNET.csproj", "{2D411359-DACD-42AB-AD5F-D981D1747FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BEFB927-EE5A-49B6-9D4D-3016A010EFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEFB927-EE5A-49B6-9D4D-3016A010EFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEFB927-EE5A-49B6-9D4D-3016A010EFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEFB927-EE5A-49B6-9D4D-3016A010EFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D411359-DACD-42AB-AD5F-D981D1747FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D411359-DACD-42AB-AD5F-D981D1747FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D411359-DACD-42AB-AD5F-D981D1747FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D411359-DACD-42AB-AD5F-D981D1747FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95543B5D-726C-4427-B1AD-D5468F478BC0}
+	EndGlobalSection
+EndGlobal

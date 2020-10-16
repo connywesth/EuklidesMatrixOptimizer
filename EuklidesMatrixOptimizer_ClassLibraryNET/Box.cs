@@ -31,7 +31,7 @@ namespace EuklidesMatrixOptimizer_ClassLibraryNETStandard
             }
             if (value < 1 || value > 9)
             {
-                throw new Exception("Parameter [value] can only have values from 1 to 5.");
+                throw new Exception("Parameter [value] can only have values from 1 to 9.");
             }
         }
 
